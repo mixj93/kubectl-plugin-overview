@@ -1,0 +1,5 @@
+name: "overview"
+shortDesc: "overview shows nodes info and pods info in namespace kube-system."
+longDesc: >
+  overview shows nodes info and pods info in namespace kube-system.
+command: ./overview.py
